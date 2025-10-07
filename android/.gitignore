@@ -1,0 +1,64 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter/Dart packages
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Build results
+build/
+.cxx/
+
+# Generated plugins
+android/app/src/main/java/io/flutter/plugins/
+android/app/src/main/kotlin/io/flutter/plugins/
+
+# Firebase
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+
+# Windows
+/windows/flutter/ephemeral
+/windows/flutter/ephemeral.bak
+/windows/runner/Debug/
+/windows/runner/Profile/
+/windows/runner/Release/
+
+# Linux
+/linux/flutter/ephemeral
+/linux/flutter/ephemeral.bak
+
+# macOS
+/macos/Flutter/ephemeral
+/macos/Flutter/ephemeral.bak

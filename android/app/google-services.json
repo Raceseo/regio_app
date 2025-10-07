@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "981102623115",
+    "project_id": "regio-mariae-e0867",
+    "storage_bucket": "regio-mariae-e0867.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981102623115:android:99c53388b9296446c2578e",
+        "android_client_info": {
+          "package_name": "com.example.regio_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981102623115-vemdg8b3mg6li9bg6e268jp97i7ttsl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.regio_new",
+            "certificate_hash": "3726f71a41db3b3f983de0f470462dae6b68649a"
+          }
+        },
+        {
+          "client_id": "981102623115-fu2bcjcqpqobg876ip0m07teltj40c8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRn6AfIAm8dl-eMpyuBMuK5m_1sYlvmc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981102623115-fu2bcjcqpqobg876ip0m07teltj40c8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981102623115-80c9hif8ri7ofkd7u0vngl9qmhj0svbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.regioNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
